@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622035159 source:c:\users\tukaram\desktop\practice\student data handler\main.cpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<string.h>
+

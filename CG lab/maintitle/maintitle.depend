@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640164351 source:c:\users\aniket\desktop\cg lab\maintitle\main.cpp
+	<conio.h>
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+
